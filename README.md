@@ -27,6 +27,7 @@ One of Hermit Crab's key design features is its multi-platform communication cap
 Hermit Crab is designed to give authorized users comprehensive control over their configured security operations. Depending on the available features and permissions, users can manage tasks, configure integrations, initiate supported operations, review results, and coordinate workflows from their preferred interface. Appropriate authentication, role-based access controls, audit logging, and safeguards are important for ensuring that administrative capabilities remain restricted to authorized personnel.
 
 Developed by Accurate Cyber Defense, Hermit Crab represents a flexible approach to modern cybersecurity operations, bringing together SOC support, penetration testing workflows, cyber drills, and security research in one adaptable platform. By combining multi-platform communication with centralized task management, Hermit Crab aims to help security professionals work more efficiently, conduct authorized assessments, and strengthen their organization's cybersecurity capabilities.
+
 # How to clone the repo
 ```bash
 git clone https://github.com/Iankulani/hermit-crab-v1.git
@@ -37,7 +38,9 @@ cd hermit-crab-v1
   ```bash
 julia hermit-crab-v1.jl
 ```
+# Documentation
 
+# References
 
 # ⭐ Star History
 
